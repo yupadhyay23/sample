@@ -1,1 +1,14 @@
-
+---
+title: deliverable 12
+date: November 30, 2024
+author:
+    - name: Nafci Islam
+      email: islamn@vcu.edu
+    - name: Yash Upadhyay
+      email: upadhyayy@vcu.edu
+format:
+    html:
+        embed-resources: true
+        html-math-method: katex
+        theme: cosmo
+---
